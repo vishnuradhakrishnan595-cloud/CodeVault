@@ -55,32 +55,6 @@ The project aims to improve developer productivity by making reusable code easie
 - GitHub
 - Postman
 
-## Project Structure
-
-
-CodeVault/
-│
-├── frontend/
-│   ├── public/
-│   ├── src/
-│   │   ├── assets/
-│   │   ├── components/
-│   │   ├── pages/
-│   │   ├── services/
-│   │   ├── context/
-│   │   ├── hooks/
-│   │   ├── App.jsx
-│   │   ├── main.jsx
-│   │   └── index.css
-│   └── package.json
-│
-├── backend/
-│   └── Backend development in progress
-│
-├── .gitignore
-└── README.md
-
-
 ## Development Progress
 
 - [x] React application initialization using Vite
